@@ -34,8 +34,8 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email Address]
+- LinkedIn: (https://www.linkedin.com/in/vishakha-burkul-61925935b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: [vishakhhaburkul@gmail.com]
 
 ---
 
