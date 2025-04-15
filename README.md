@@ -1,7 +1,7 @@
 -<h1 align="center">Hey there, I'm Vishakha Burkul</h1>
 
 <p align="center">
-  <img src=["https://pin.it/7goXNk5V0"]/>
+  <img src="https://pin.it/7goXNk5V0"/>
 </p>
 <h3 align="center">Electronics & Telecommunication Engineer | Tech Enthusiast</h3>
 
