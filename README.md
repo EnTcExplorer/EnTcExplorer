@@ -1,6 +1,8 @@
 -<h1 align="center">Hey there, I'm Vishakha Burkul</h1>
 
 <p align="center">
+<img src= "Uploading software girl.jpeg" alt="Chai-fueled and code-obsessed-this girl on Tech journey"width="500"/>
+
   
 >
 <h3 align="center">Electronics & Telecommunication Engineer | Tech Enthusiast</h3>
