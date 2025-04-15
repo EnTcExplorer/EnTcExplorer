@@ -1,29 +1,7 @@
 -<h1 align="center">Hey there, I'm Vishakha Burkul</h1>
 
 <p align="center">
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Display</title>
-</head>
-<body>
-   
 
-    <!-- Method 2: Using an online image URL -->
-    <img src="[https://example.com/image.jpg](https://pin.it/2F9WDJkQo)" alt=""Chai-fueled and code-obsessed—this girl’s on a tech journey" style="max-width: 100%; height: auto;">
-
-    <!-- Optional: Add some styling -->
-    <style>
-        img {
-            border: 1px solid #ddd;
-            padding: 5px;
-        }
-    </style>
-</body>
-</html>
-
-  
 >
 <h3 align="center">Electronics & Telecommunication Engineer | Tech Enthusiast</h3>
 
