@@ -34,7 +34,7 @@
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/vishakha-burkul-61925935b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [www.linkedin.com/in/vishakha-burkul-61925935b]
 - Email: [vishakhhaburkul@gmail.com]
 
 ---
