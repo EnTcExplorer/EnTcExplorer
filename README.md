@@ -35,22 +35,20 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-www.linkedin.com/in/vishakha-burkul-61925935b
+  <a href="https://www.linkedin.com/in/Vishakha Burkul/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <a href="mailto:vishakhaburkul@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
+  </a>
 
-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:vishakhaburkuulgmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  
   <a href="https://github.com/EnTcExplorer" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
-  <a href="https://www.instagram.com/[(https://www.instagram.com/vii.shhh._?igsh=MWJiMjl1c3NoeGR2bQ==)]/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/vii.shhh._/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
