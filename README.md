@@ -1,8 +1,9 @@
 -<h1 align="center">Hey there, I'm Vishakha Burkul</h1>
 
 <p align="center">
-  <img src="![WhatsApp Image 2025-04-15 at 11 33 40 AM](https://github.com/user-attachments/assets/a25344c0-7389-4698-8fe0-aaf23e57da9d)
+  <img src="![software girl](https://github.com/user-attachments/assets/55e20a8a-41d7-4339-a90c-64f0ab39fe90)
 " alt="Chai-fueled and code-obsessed—this girl’s on a tech journey" width="400"/>
+>
 <h3 align="center">Electronics & Telecommunication Engineer | Tech Enthusiast</h3>
 
 ---
