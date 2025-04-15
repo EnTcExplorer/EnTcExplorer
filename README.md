@@ -1,7 +1,7 @@
 -<h1 align="center">Hey there, I'm Vishakha Burkul</h1>
 
 <p align="center">
-  <img src="your-direct-image-link-here.gif" alt="Software Girly" width="250"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Software Girly" width="300"/>
 </p>
 <h3 align="center">Electronics & Telecommunication Engineer | Tech Enthusiast</h3>
 
