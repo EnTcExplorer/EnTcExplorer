@@ -55,7 +55,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
+### 📄 Download My Resume
 
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](https://github.com/your-username/your-repo-name/raw/main/resume.pdf)
 ---
 
 ### ✨ Fun Fact
